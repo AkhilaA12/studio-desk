@@ -29,7 +29,7 @@ Do not paste sensitive client information into the free Gemini tier. Google may 
 - Gemini returns a structured inquiry summary validated with Zod.
 - `src/lib/lead.ts` contains the studio's qualification rules.
 
-The sample inbox contains ten hand-written inquiries: some promising, some vague, and some plainly unsuitable. They are there to make the review flow useful before connecting the API.
+The sample inbox contains one hand-written inquiry so the review flow is useful before connecting the API.
 
 ## Commands
 
